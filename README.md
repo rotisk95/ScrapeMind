@@ -12,7 +12,8 @@ ScrapeMind is an advanced AI system designed to learn from web-scraped data in r
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-
+- [License](#license)
+- 
 ## Features
 
 - Real-time web scraping for data collection
@@ -53,3 +54,8 @@ python main.py
 ## Contributing
 
 Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute to this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
